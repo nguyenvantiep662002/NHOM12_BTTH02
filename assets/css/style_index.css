@@ -1,0 +1,20 @@
+/* css for header */
+
+.navbar {
+    padding: 0;
+}
+
+.nav-link {
+    color: black !important;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.container {
+    margin: 0;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
